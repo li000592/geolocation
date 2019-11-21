@@ -16,6 +16,7 @@ body {
     border: 2px solid #333;
     width: 50vw;
     height: 80vh;
+    font-size: 25px;
 }
 #info {
     font-size: 1rem;
